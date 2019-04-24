@@ -3,7 +3,7 @@
 import '../css/style.css';
 
 window.onload = function() {
-  console.log('loaded!');
+  console.log('window on loaded!');
 }
 
 if (process.env.NODE_ENV !== 'production') {
